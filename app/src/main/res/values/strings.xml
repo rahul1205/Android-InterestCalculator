@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Compound Interest Calculator</string>
+    <string name="frequency_of_deposit_label">Deposit frequency</string>
+    <string name="initial_investment_label">Initial Investment</string>
+    <string name="regular_payments_label">Regular Payments</string>
+    <string name="annual_interest_rate_label">Annual Interest Rate</string>
+    <string name="years_to_grow_label">Years to grow</string>
+    <string name="calculate_label">Calculate</string>
+    <string-array name="frequency_of_deposit">
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Semi Annually</item>
+        <item>Annually</item>
+    </string-array>
+</resources>
